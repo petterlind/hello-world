@@ -70,7 +70,7 @@ print(kostnad,kostnadRed, resultat)
 print("added a print statement at the bottom, to test git")
 
 
-print("added another line of code to test things out.")
+print("Altered that last piece of code, again")
 # plt.bplot(kostnad)
 # Med utfallet arv
 
