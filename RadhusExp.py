@@ -66,6 +66,11 @@ resultatRed = inkomst - kostnadRed
 
 print(kostnad,kostnadRed, resultat)
 
+# test writing something here
+print("added a print statement at the bottom, to test git")
+
+
+print("added another line of code to test things out.")
 # plt.bplot(kostnad)
 # Med utfallet arv
 
